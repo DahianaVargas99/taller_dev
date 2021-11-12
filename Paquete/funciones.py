@@ -1,5 +1,5 @@
 def sumar(a,b):
-
+    
     c = a + b
     return c
 def yorguin():
@@ -27,12 +27,9 @@ def yeimmy():
 def Dahiana():
        print('Hola chicos!!')
 def camila():
-       print("Camila")
-       
-
+    print("Camila")
 def eliana():
        print('eliana')
-       
 def vale():
    a='VALENTINA'
    for i in a:
@@ -41,3 +38,7 @@ def vale():
 
 def taller():
    print('taller')
+
+def Division(a,b):
+   c= a/b
+   return c
